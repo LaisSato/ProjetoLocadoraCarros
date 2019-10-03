@@ -1,0 +1,7 @@
+supermercado.PesquisaCliente$6
+supermercado.PesquisaCliente$5
+supermercado.PesquisaCliente$2
+supermercado.PesquisaCliente$1
+supermercado.PesquisaCliente$4
+supermercado.PesquisaCliente$3
+supermercado.PesquisaCliente
